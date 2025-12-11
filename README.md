@@ -19,6 +19,4 @@ Fullstack Academy (University of Illinois at Chicago) – Data Analytics Bootcam
 <a href="https://www.linkedin.com/in/uriel-bandera-753b56250">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30"/>
 </a>
-<a href="mailto:ubanders20@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30"/>
-</a>
+
