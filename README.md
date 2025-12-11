@@ -3,8 +3,9 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Email Marketing Project </b>
-  - [SQL Data Manipulation](https://github.com/ubandera868/SQL-_Email_Marketing-_Dashboard)
-- <b>Visualizations (Link to Tableau)</b>
+  -Linked below you can find my SQL code and analysis in different files that end in ".sql"
+  - [SQL Data Manipulation](https://github.com/ubandera868/SQL-_Email_Marketing-_Dashboard) 
+- <b>Visualizations (Link to Tableau for the dashboard created based on the data)</b>
   - [Dashboard](https://public.tableau.com/views/EmailMarketingAnalysis_17654786449920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 <h2>👨‍💻 Certifications:</h2>
